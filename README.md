@@ -1,6 +1,7 @@
 # Portfólio Pessoal – Natalia Santos
 
 Projeto desenvolvido para a atividade **[H&CIA-A08]**, com o objetivo de criar uma página de portfólio pessoal utilizando **HTML, CSS e JavaScript**, apresentando informações pessoais, habilidades, projetos e formas de contato.
+link http://127.0.0.1:5500/index.html
 
 ## 📌 Descrição do Projeto
 
